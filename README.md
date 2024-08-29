@@ -56,8 +56,9 @@ The model was trained for 10 epochs, and the results are as follows:
 - **Training Accuracy**: Approximately 72.47%
 - **Test Accuracy**: Approximately 71.94%
 
-![Model Accuracy](path_to_accuracy_plot.png"C:\Users\dell\Pictures\Screenshots\Screenshot 2024-08-30 011945.png")
+![Model Accuracy](images/Screenshot_2024-08-30_011945.png)
 *Accuracy over training epochs.*
+
 
 ## Installation
 
