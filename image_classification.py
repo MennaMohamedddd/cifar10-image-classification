@@ -1,3 +1,8 @@
+# ---------------------------------------------------------
+# Author: Menna Mohamed
+# Date: August 28, 2024
+# Description: CIFAR-10 Image Classification using CNNs
+# ---------------------------------------------------------
 import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.datasets import cifar10
